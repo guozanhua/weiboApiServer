@@ -1,0 +1,4 @@
+weiboApiServer
+==============
+
+use mybatis
