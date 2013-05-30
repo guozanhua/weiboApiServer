@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+    <user id="王石">
+        <uid>1193491727</uid>
+        <type>100</type>
+    </user>
+    <user id="周鸿祎">
+        <uid>1708942053</uid>
+        <type>120</type>
+    </user>
+    <user id="李开复">
+        <uid>1197161814</uid>
+        <type>200</type>
+    </user>
+    <user id="郭敬明">
+        <uid>1188552450</uid>
+        <type>310</type>
+    </user>
+    <user id="高晓松">
+        <uid>1191220232</uid>
+        <type>400</type>
+    </user>
+    <user id="韩寒">
+        <uid>1191258123</uid>
+        <type>340</type>
+    </user>
+    <user id="罗永浩可爱多">
+        <uid>1640571365</uid>
+        <type>512</type>
+    </user>
+    <user id="武大沈阳">
+        <uid>1652867473</uid>
+        <type>500</type>
+    </user>
+    <user id="慕容雪村">
+        <uid>1182415487</uid>
+        <type>300</type>
+    </user>
+    <user id="郎咸平">
+        <uid>1684388950</uid>
+        <type>500</type>
+    </user>
+    <user id="蔡文胜">
+        <uid>1729853157</uid>
+        <type>200</type>
+    </user>
+    <user id="张颐武">
+        <uid>1194868525</uid>
+        <type>500</type>
+    </user>
+    <user id="杨澜">
+        <uid>1198920804</uid>
+        <type>600</type>
+    </user>
+    <user id="小凉席">
+        <uid>1796537952</uid>
+        <type>900</type>
+    </user>
+    
+</users>
